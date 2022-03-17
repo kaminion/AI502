@@ -1,0 +1,55 @@
+name: /Users/kaminion/Desktop/workspace/practice/AI502/ai502_env
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - blas=1.0=openblas
+  - ca-certificates=2022.2.1=hca03da5_0
+  - certifi=2021.10.8=py38hca03da5_2
+  - cffi=1.15.0=py38h22df2f2_1
+  - freetype=2.11.0=h1192e45_0
+  - future=0.18.2=py38hca03da5_1
+  - giflib=5.2.1=h1a28f6b_0
+  - jpeg=9d=h1a28f6b_0
+  - lcms2=2.12=hba8e193_0
+  - libblas=3.9.0=11_osxarm64_openblas
+  - libcblas=3.9.0=11_osxarm64_openblas
+  - libcxx=12.0.0=hf6beb65_1
+  - libffi=3.4.2=hc377ac9_2
+  - libgfortran=5.0.0=11_1_0_h6a59814_26
+  - libgfortran5=11.1.0=h6a59814_26
+  - liblapack=3.9.0=11_osxarm64_openblas
+  - libopenblas=0.3.17=hea475bc_1
+  - libpng=1.6.37=hb8d0fd4_0
+  - libprotobuf=3.18.1=hccf11d3_0
+  - libtiff=4.2.0=h11e2f9f_0
+  - libwebp=1.2.2=h68602c7_0
+  - libwebp-base=1.2.2=h1a28f6b_0
+  - libzlib=1.2.11=hee7b306_1013
+  - llvm-openmp=13.0.1=h455960f_1
+  - lz4-c=1.9.3=hc377ac9_0
+  - ncurses=6.3=h1a28f6b_2
+  - ninja=1.10.2=py38h525c30c_3
+  - numpy=1.21.2=py38hb38b75b_0
+  - numpy-base=1.21.2=py38h6269429_0
+  - openssl=1.1.1m=h1a28f6b_0
+  - pillow=9.0.1=py38h4d1bdd5_0
+  - pip=21.2.4=py38hca03da5_0
+  - pycparser=2.21=pyhd3eb1b0_0
+  - python=3.8.11=hbdb9e5c_5
+  - python_abi=3.8=2_cp38
+  - pytorch=1.10.0=cpu_py38ha3d347f_0
+  - readline=8.1.2=h1a28f6b_1
+  - setuptools=58.0.4=py38hca03da5_1
+  - six=1.16.0=pyhd3eb1b0_1
+  - sleef=3.5.1=hf27765b_1
+  - sqlite=3.38.0=h1058600_0
+  - tk=8.6.11=hb8d0fd4_0
+  - torchvision=0.2.2=py_3
+  - typing_extensions=3.10.0.2=pyh06a4308_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=h1a28f6b_0
+  - zlib=1.2.11=hee7b306_1013
+  - zstd=1.4.9=h8574219_1
+prefix: /Users/kaminion/Desktop/workspace/practice/AI502/ai502_env
